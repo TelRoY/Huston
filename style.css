@@ -1,0 +1,21 @@
+body {
+    padding: 20px;
+    width: 70%;
+}
+
+figure {
+    margin: 0;
+    text-align: left;
+}
+
+caption {
+    font-weight: bold;
+}
+
+table {
+    width: 100%;
+}
+
+#таблица3 {
+    text-align: left
+}
