@@ -1,20 +1,52 @@
 body {
     padding: 20px;
     width: 70%;
-    text-align: center;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h1, h2, h3 {
+    font-family: sans-serif;
+    margin-top: 1.5em;
+
+}
+
+p {
+    display: block;
+    text-align: left;
 }
 
 figure {
     margin: 0;
     text-align: left;
+    float: right;
 }
+
+figcaption {
+    font-style: italic;
+    padding: 0 5px 5px;
+}
+
+img {
+    padding: 10px 0 0 10px;
+}
+
+
 
 caption {
     font-weight: bold;
+    border: 1px solid black;
 }
 
-table {
-    width: 100%;
+table, th, tr, td {
+    width: auto;
+    border: 1px solid black ;
+}
+
+#таблица2 {
+    width: 50%;
 }
 
 #таблица3 {
